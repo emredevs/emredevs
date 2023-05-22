@@ -12,3 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?emredevs=anuraghazra)](https://github.com/emredevs/github-readme-stats)
