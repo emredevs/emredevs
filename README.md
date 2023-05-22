@@ -8,7 +8,8 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emredevs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats)
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats)</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
