@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emredevs&repo=github-readme-stats)](https://github.com/emredevs/github-readme-stats)
