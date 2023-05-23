@@ -7,8 +7,11 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-er-4b8348261/)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emredevs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats)
+<!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emredevs&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&layout=donut)](https://github.com/emredevs/github-readme-stats) -->
+
+
+
 
 
 
@@ -17,7 +20,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emredevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emredevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=emredevs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
+
 
 
 
