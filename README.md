@@ -8,6 +8,12 @@
 
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredevs&theme=dark&show_icons=true)
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
