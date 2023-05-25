@@ -41,8 +41,11 @@
 
 
 <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=emredevs&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&hide_border=true&layout=compact" align="left" />
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredevs&theme=dracula&show_icons=true)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredevs&theme=dracula&show_icons=true) -->
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=emredevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emredevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
