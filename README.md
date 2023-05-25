@@ -43,7 +43,7 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=emredevs&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&theme=dracula&hide_border=true&layout=compact" align="left" />
  
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredevs&theme=dracula&show_icons=true) -->
 
