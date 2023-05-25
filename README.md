@@ -42,8 +42,7 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=emredevs&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="left" />  
- <img src="https://streak-stats.demolab.com?user=emredevs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
-
+ <img src="https://streak-stats.demolab.com?user=emredevs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredevs&theme=dracula&hide_border=true&layout=compact" align="left" />
  
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredevs&theme=dracula&show_icons=true) -->
