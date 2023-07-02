@@ -1,6 +1,6 @@
  Hi there 👋
 
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Nextjs & TypeScript
 <!-- - 📫 How to reach me:linkedin.com/in/emre-er-4b8348261 -->
 - ⚡ What do i know: Html/Css/Javascript/React (novice)
 
